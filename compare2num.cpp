@@ -8,6 +8,7 @@ main()
 {
 
 int num1, num2 ;
+system("cls") ;
 cout<<"Enter the first number: ";
 cin>> num1 ;
 cout<<"Enter the second number: ";
@@ -23,7 +24,7 @@ void IsEqual(int n1,int n2)
 {
 if(n1==n2)
 {
-cout<<"true" ;
+cout<<"true " ;
 }
 if(n1!=n2)
 {
